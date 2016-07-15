@@ -1,3 +1,6 @@
+"""The RouterOS address sync module contains utility code for synchronizing
+address lists to RouterOS devices.
+"""
 import argparse
 import logging
 
